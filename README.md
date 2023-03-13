@@ -5,7 +5,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [Solar Disinfection Tutorial](https://makecode.microbit.org/#tutorial:github:mbakhtar/solar-disinfection---sodis/sodis)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/solar-disinfection---sodis** and import
